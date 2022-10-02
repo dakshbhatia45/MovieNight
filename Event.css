@@ -1,0 +1,62 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+div.form{
+    width: 10px;
+    margin: 80px 900px 3px auto;
+}
+
+h2{
+    color: black;
+    text-align: center;
+    padding:20px;
+}
+
+div.register{
+    background-color: rgba(red, green, blue, alpha);
+    width: 100px;
+    font-size: 18px;
+    border-radius: 10px;
+    border: 1px solid rgba(255,255,255,0.3);
+}
+
+form#register{
+    margin: 40px;
+}
+
+label{
+    font-family: sans-serif;
+    font-size: 18px;
+    font-style: italic;
+}
+body{
+    background-image: url('https://t3.ftcdn.net/jpg/04/55/02/48/360_F_455024805_6SprAldSycWiDEYN4RxPFt8yGT5pd0x3.jpg');
+    height: 700px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    opacity: 0.9;
+}
+
+#name,Test_DatetimeLocal{
+    color: white;
+}
+
+div.form{
+    width: 400px;
+    height: 100px auto 0 auto; 
+}
+
+input#Next{
+    width: 200px;
+    padding: 7px;
+    font-size: 16px;
+    font-family: sans-serif;
+    font-weight: 600;
+    border: none;
+    border-radius: 3px;
+    background-color: #ffdd00;
+    cursor: pointer;
+}
